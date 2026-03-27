@@ -122,6 +122,4 @@ DELETE /users/:id
 
 ---
 
-## 📝 License
 
-MIT
